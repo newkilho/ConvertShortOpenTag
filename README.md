@@ -1,6 +1,6 @@
 # ConvertShortOpenTag
 
-Convert PHP short tag to long open tag
+Convert PHP short open tag to long open tag
 
 # How to use
 
